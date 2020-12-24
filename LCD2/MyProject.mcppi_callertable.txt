@@ -1,0 +1,6 @@
+main
+	LCD_init
+		LCD_cmmd
+	LCD_str
+		LCD_Data
+	LCD_Data

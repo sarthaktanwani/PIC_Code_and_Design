@@ -1,0 +1,4 @@
+main
+	__CC2DW
+	UART_init
+	send_byte
